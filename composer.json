@@ -1,6 +1,6 @@
 {
     "name": "realcodelighter/core",
-    "description": "CodeLighter 1.0",
+    "description": "CodeLighter Core 1.0.0",
     "type": "library",
     "license": "MIT",
     "autoload": {
